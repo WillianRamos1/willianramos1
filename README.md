@@ -10,9 +10,6 @@
   Ola, Eu sou Willian de Lima Ramos
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<div align="center">
-  <img src="https://c.tenor.com/7tlM7VOBit8AAAAC/night-tutorials-indo-hanging-light.gif" width="500" height="370"/>
-</div>
   </div>
 
 ---
